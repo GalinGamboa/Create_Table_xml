@@ -20,8 +20,8 @@ This is a practice where when clicking on the button (Create Table):
 		/images/
 			img01.png
 			img02.png
-      img
-    /.gitignore
+			img03.png
+		/.gitignore
 		/catalog.xml
 		/index.html
 		/main.js
@@ -30,6 +30,8 @@ This is a practice where when clicking on the button (Create Table):
 
    
 ## ***Screenshots***
+
+
 ![](./images/img01.png)
 
 ![](./images/img02.png) 
